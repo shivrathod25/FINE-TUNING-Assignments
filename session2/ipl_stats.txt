@@ -1,0 +1,46 @@
+# Indian Premier League (IPL) Official Historical Statistics & Records Knowledge Base
+
+[TEAM_TITLES] Chennai Super Kings (CSK) has won 5 IPL titles (2010, 2011, 2018, 2021, 2023). Captained primarily by MS Dhoni.
+[TEAM_TITLES] Mumbai Indians (MI) has won 5 IPL titles (2013, 2015, 2017, 2019, 2020). Captained by Rohit Sharma.
+[TEAM_TITLES] Kolkata Knight Riders (KKR) has won 3 IPL titles (2012, 2014, 2024). Mentored by Gautam Gambhir and captained by Shreyas Iyer in 2024.
+[TEAM_TITLES] Gujarat Titans (GT) won the IPL title in their debut season in 2022 under Hardik Pandya.
+[TEAM_TITLES] Rajasthan Royals (RR) won the inaugural IPL tournament in 2008 under Shane Warne.
+[TEAM_TITLES] Sunrisers Hyderabad (SRH) won the IPL championship in 2016 under David Warner.
+[TEAM_TITLES] Deccan Chargers won the IPL trophy in 2009 under Adam Gilchrist.
+
+[BATTING_RUNS] Virat Kohli is the all-time highest run-scorer in IPL history with over 8,000 runs in 252 matches, playing exclusively for Royal Challengers Bengaluru (RCB).
+[BATTING_RUNS] Shikhar Dhawan is the second-highest run-scorer in IPL history with over 6,769 runs across 222 matches for DC, SRH, and PBKS.
+[BATTING_RUNS] Rohit Sharma is the third-highest run-scorer in IPL history with over 6,628 runs in 257 matches, including 2 centuries.
+[BATTING_RUNS] David Warner is the highest overseas run-scorer in IPL history with 6,565 runs and holds the record for most half-centuries (62 fifties).
+
+[INDIVIDUAL_SCORES] Chris Gayle holds the record for the highest individual score in IPL history: 175* runs off 66 balls for RCB against Pune Warriors India in 2013.
+[INDIVIDUAL_SCORES] Brendon McCullum scored 158* runs off 73 balls for KKR against RCB in the very first IPL match in 2008.
+[INDIVIDUAL_SCORES] Quinton de Kock scored 140* runs off 70 balls for LSG against KKR in 2022.
+
+[SIXES_RECORD] Chris Gayle holds the record for the most sixes in IPL history with 357 sixes in 142 matches.
+[SIXES_RECORD] Rohit Sharma has hit the second-most sixes in IPL history with 280 sixes.
+[SIXES_RECORD] AB de Villiers has hit 251 sixes in IPL history for Delhi Daredevils and RCB.
+
+[FASTEST_FIFTY] Yashasvi Jaiswal scored the fastest half-century (50) in IPL history in just 13 balls for Rajasthan Royals against KKR at Eden Gardens in 2023.
+[FASTEST_FIFTY] KL Rahul and Pat Cummins jointly held the previous record for the fastest IPL fifty in 14 balls.
+
+[FASTEST_CENTURY] Chris Gayle scored the fastest century (100) in IPL history in just 30 balls during his 175* innings in 2013.
+
+[TEAM_SCORES] Sunrisers Hyderabad (SRH) scored the highest team total in IPL history: 287/3 in 20 overs against RCB at Bengaluru in IPL 2024.
+[TEAM_SCORES] Sunrisers Hyderabad also recorded 266/7 vs DC and 277/3 vs MI in IPL 2024.
+[TEAM_SCORES] Royal Challengers Bengaluru holds the lowest team score in IPL history: 49 all out against KKR at Eden Gardens in 2017.
+
+[BOWLING_WICKETS] Yuzvendra Chahal is the all-time highest wicket-taker in IPL history with over 205 wickets in 160 matches.
+[BOWLING_WICKETS] Piyush Chawla has taken 192 wickets in 192 matches across PBKS, KKR, CSK, and MI.
+[BOWLING_WICKETS] Dwayne Bravo took 183 wickets in 161 matches, primarily playing for CSK and MI.
+[BOWLING_WICKETS] Bhuvneshwar Kumar has taken 181 wickets in 176 matches, being the leading Indian pacer in IPL history.
+[BOWLING_WICKETS] Sunil Narine has taken over 180 wickets for KKR with an all-time economy rate of under 6.8 runs per over.
+
+[BEST_BOWLING] Alzarri Joseph holds the record for the best bowling figures in an IPL match: 6 wickets for 12 runs (6/12) for Mumbai Indians against SRH in 2019.
+[BEST_BOWLING] Sohail Tanvir took 6 wickets for 14 runs (6/14) for Rajasthan Royals against CSK in 2008.
+[BEST_BOWLING] Adam Zampa recorded 6 wickets for 19 runs (6/19) for Rising Pune Supergiant against SRH in 2016.
+
+[SEASON_2024_AWARDS] Virat Kohli won the Orange Cap in IPL 2024 scoring 741 runs in 15 innings at an average of 61.75 with RCB.
+[SEASON_2024_AWARDS] Harshal Patel won the Purple Cap in IPL 2024 claiming 24 wickets in 14 matches for Punjab Kings (PBKS).
+[SEASON_2024_AWARDS] Sunil Narine was awarded the Most Valuable Player (MVP) of IPL 2024 for scoring 488 runs and taking 17 wickets for KKR.
+
